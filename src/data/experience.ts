@@ -21,6 +21,4 @@ export const EXPERIENCE: ExperienceShowcaseListItemProps[] = [
     location: "Pune",
     description: "Smart Log Analyzer for Distributed Systems",
   },
-  
-  
 ];

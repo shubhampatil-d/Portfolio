@@ -56,9 +56,10 @@ export default function LandingHero() {
                 <span className="font-semibold text-accent">SQL</span>,{" "}
                 <span className="font-semibold text-accent">Mongodb</span>,{" "}
                 {/* an expert in{" "} */}
-                <span className="font-semibold text-accent">JavaScript</span>,{" "}
-                <span className="font-semibold text-accent">HTML</span> and{" "}
-                <span className="font-semibold text-accent">CSS</span>
+                <span className="font-semibold text-accent">
+                  JavaScript
+                </span>, <span className="font-semibold text-accent">HTML</span>{" "}
+                and <span className="font-semibold text-accent">CSS</span>
               </div>
             </FadeUp>
           </AnimatePresence>

@@ -31,8 +31,7 @@ export const EDUCATION: ExperienceShowcaseListItemProps[] = [
     },
     date: "2016-2018",
     location: "Kalwan, Nashik",
-    description:
-      "Completed the course in Science with 79.6%.",
+    description: "Completed the course in Science with 79.6%.",
   },
   {
     title: "Secondary School Education(CBSE)",
