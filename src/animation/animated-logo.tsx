@@ -3,7 +3,7 @@ import React from "react";
 export default function AnimatedLogo() {
   return (
     <img
-      src="mylogo.png"
+      src="MyLogo.png"
       alt="Logo"
       style={{ width: "100%", height: "100%", objectFit: "contain" }}
     />
